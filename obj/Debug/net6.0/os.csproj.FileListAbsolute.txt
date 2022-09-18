@@ -1,0 +1,15 @@
+/Users/sumet/Desktop/code/os/bin/Debug/net6.0/os
+/Users/sumet/Desktop/code/os/bin/Debug/net6.0/os.deps.json
+/Users/sumet/Desktop/code/os/bin/Debug/net6.0/os.runtimeconfig.json
+/Users/sumet/Desktop/code/os/bin/Debug/net6.0/os.dll
+/Users/sumet/Desktop/code/os/bin/Debug/net6.0/os.pdb
+/Users/sumet/Desktop/code/os/obj/Debug/net6.0/os.csproj.AssemblyReference.cache
+/Users/sumet/Desktop/code/os/obj/Debug/net6.0/os.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumet/Desktop/code/os/obj/Debug/net6.0/os.AssemblyInfoInputs.cache
+/Users/sumet/Desktop/code/os/obj/Debug/net6.0/os.AssemblyInfo.cs
+/Users/sumet/Desktop/code/os/obj/Debug/net6.0/os.csproj.CoreCompileInputs.cache
+/Users/sumet/Desktop/code/os/obj/Debug/net6.0/os.dll
+/Users/sumet/Desktop/code/os/obj/Debug/net6.0/refint/os.dll
+/Users/sumet/Desktop/code/os/obj/Debug/net6.0/os.pdb
+/Users/sumet/Desktop/code/os/obj/Debug/net6.0/os.genruntimeconfig.cache
+/Users/sumet/Desktop/code/os/obj/Debug/net6.0/ref/os.dll
